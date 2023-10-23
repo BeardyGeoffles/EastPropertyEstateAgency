@@ -1,0 +1,36 @@
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\VIEWALLUSERS.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\ViewAllUsers.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\ViewAllUsers.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\PROGRAM1.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\Program1.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" obj"C:obj\x86\Debug\Program1.obj" delint xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\AMENDVIEWING.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\AmendViewing.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\AmendViewing.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\AMENDBUYER.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\AmendBuyer.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\AmendBuyer.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\BUYER.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\Buyer.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\Buyer.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\VIEWALLBUYERS.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\ViewAllBuyers.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\ViewAllBuyers.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\AMENDSELLER.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\AmendSeller.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\AmendSeller.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\VIEWALLSELLERS.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\ViewAllSellers.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\ViewAllSellers.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\VIEWALLPROPERTIES.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\ViewAllProperties.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\ViewAllProperties.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\USER.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\User.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\User.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\AMENDUSER.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\AmendUser.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\AmendUser.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\AMENDPROPERTY.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\AmendProperty.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\AmendProperty.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\VIEWALLVIEWINGS.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\ViewAllViewings.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\ViewAllViewings.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\LOGIN.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\Login.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\Login.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\PROPERTY.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\Property.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\Property.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\SELLER.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\Seller.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\Seller.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\VIEWING.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\Viewing.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\Viewing.int" xtraint . MFCBT_CopyPaths=
+^C:\USERS\GEOFF\SOURCE\REPOS\EASTPROPERTY\EASTPROPERTY\MAIN.CBL
+MFCBT_Directives=int"C:obj\x86\Debug\Main.int" noP64 anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:obj\x86\Debug\Main.int" xtraint . MFCBT_CopyPaths=
